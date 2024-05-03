@@ -1,0 +1,24 @@
+Crowd Annotation
+
+Users
+- Role: Admin
+- Role: Moderators
+
+Images
+- User Annotations:
+ - Thumb Up/Thumbs Down
+ - Captions
+ - Tags
+
+Actions:
+- Upload Image
+- Browse/Search Images
+- Report Image
+- Annotate
+- Review Annotations
+
+Screens:
+- Home Screen
+- Browser/Search Screen
+- Guided Annotation Screen
+- Guided Annotation Review Screen
